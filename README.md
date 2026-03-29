@@ -1,7 +1,7 @@
 # <p align="center">🌿 Halo, Saya Meisa Astuti! 🌧️</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=2e7d32&height=200&section=header&text=Welcome%20to%20My%20Garden&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Saya adalah mahasiswi **Sistem Informasi** yang sedang bertumbuh di dunia teknol
 
 * 🪴 **Current Interest:** Web Development & System Analysis.
 * ☁️ **Vibe:** Menikmati aroma hujan (*petrichor*) sambil merangkai barisan kode.
-* 🍵 **Power Source:** Segelas matcha hangat.
+* 🍵 **Power Source:** Segelas matcha ice.
 
 ---
 
@@ -34,13 +34,14 @@ Saya adalah mahasiswi **Sistem Informasi** yang sedang bertumbuh di dunia teknol
 
 ### 📊 GitHub Garden Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Meisa354&show_icons=true&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&icon_color=4caf50&border_color=a5d6a7&v=1" alt="Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meisa354&layout=compact&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&border_color=a5d6a7&v=1" alt="Langs" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Meisa354&show_icons=true&theme=leafy&hide_border=true" alt="Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Meisa354&layout=compact&theme=leafy&hide_border=true" alt="Langs" height="165" />
 </p>
 
 ---
 
 ### 🔗 Let's Connect
+Let's grow together! 🌿
 * 💼 **LinkedIn:** [Meisa Astuti](https://www.linkedin.com/in/meisa-astuti-bb67972b1)
 * 📧 **Email:** [meisyaastuti2@gmail.com](mailto:meisyaastuti2@gmail.com)
 * 📸 **Instagram:** [@mesyaastti](https://www.instagram.com/mesyaastti)
