@@ -34,8 +34,8 @@ Saya adalah mahasiswi **Sistem Informasi** yang sedang bertumbuh di dunia teknol
 
 ### 📊 GitHub Garden Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meisa354&show_icons=true&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&icon_color=4caf50&border_color=a5d6a7" alt="Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meisa354&layout=compact&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&border_color=a5d6a7" alt="Langs" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Meisa354&show_icons=true&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&icon_color=4caf50&border_color=a5d6a7&v=1" alt="Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meisa354&layout=compact&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&border_color=a5d6a7&v=1" alt="Langs" height="165" />
 </p>
 
 ---
