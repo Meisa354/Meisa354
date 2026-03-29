@@ -22,9 +22,9 @@ Berikut adalah teknologi yang biasa saya gunakan:
 ---
 
 ### 🔗 Let's Connect
-* 💼 **LinkedIn:** [linkedin.com/in/[username-kamu]](https://www.linkedin.com/in/meisa-astuti-bb67972b1?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-* 📧 **Email:** [email-kamu@example.com](meisyaastuti2@gmail.com)
-* 📸 **Instagram:** [@username_kamu](https://www.instagram.com/mesyaastti?igsh=bGRyaGowcjgxNWkx)
+* 💼 **LinkedIn:** [Meisa Astuti](https://www.linkedin.com/in/meisa-astuti-bb67972b1?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* 📧 **Email:** [meisyaastuti2@gmail.com](meisyaastuti2@gmail.com)
+* 📸 **Instagram:** [@mesyaastti](https://www.instagram.com/mesyaastti?igsh=bGRyaGowcjgxNWkx)
 
 ---
 
