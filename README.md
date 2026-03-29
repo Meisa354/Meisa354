@@ -1,37 +1,58 @@
-# Halo, Saya Meisa Astuti! 👋
+# <p align="center">🌿 Halo, Saya Meisa Astuti! 🌧️</p>
 
-Saya adalah seorang Mahasiswa program studi Sistem Informasi yang tertarik pada dunia teknologi dan pengembangan website dan aplikasi. Saya senang mengeksplorasi hal-hal baru dan membangun proyek yang bermanfaat.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=2e7d32&height=200&section=header&text=Welcome%20to%20My%20Garden%20of%20Code&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-### 🛠 Skills & Tech Stack
-Berikut adalah teknologi yang biasa saya gunakan:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Pluviophile%20Mode%20ON-1b5e20?style=flat-square&logo=icloud" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-81c784?style=flat-square" />
+  <img src="https://img.shields.io/badge/Drink-Matcha%20Lover-a5d6a7?style=flat-square&logo=leaf" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📝 About Me
+Saya adalah mahasiswi **Sistem Informasi** yang sedang bertumbuh di dunia teknologi. Seperti hujan yang menyirami bumi, saya senang mengeksplorasi hal baru untuk membangun solusi digital yang bermanfaat dan segar.
+
+* 🪴 **Current Interest:** Web Development & System Analysis.
+* ☁️ **Vibe:** Menikmati aroma hujan (*petrichor*) sambil merangkai barisan kode.
+* 🍵 **Power Source:** Segelas matcha hangat.
+
+---
+
+### 🛠 Skills & Tech Stack
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meisa354&show_icons=true&theme=dracula" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meisa354&layout=compact&theme=dracula" alt="Top Languages" height="150" />
+  <img src="https://img.shields.io/badge/HTML5-2e7d32?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-388e3c?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-4caf50?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1b5e20?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2e7d32?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Garden Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meisa354&show_icons=true&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&icon_color=4caf50&border_color=a5d6a7" alt="Meisa GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meisa354&layout=compact&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&border_color=a5d6a7" alt="Top Languages" height="165" />
 </p>
 
 ---
 
 ### 🔗 Let's Connect
-* 💼 **LinkedIn:** [Meisa Astuti](https://www.linkedin.com/in/meisa-astuti-bb67972b1?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-* 📧 **Email:** [meisyaastuti2@gmail.com](meisyaastuti2@gmail.com)
-* 📸 **Instagram:** [@mesyaastti](https://www.instagram.com/mesyaastti?igsh=bGRyaGowcjgxNWkx)
+Let's grow together! 🌿
+* 💼 **LinkedIn:** [Meisa Astuti](https://www.linkedin.com/in/meisa-astuti-bb67972b1)
+* 📧 **Email:** [meisyaastuti2@gmail.com](mailto:meisyaastuti2@gmail.com)
+* 📸 **Instagram:** [@mesyaastti](https://www.instagram.com/mesyaastti)
 
 ---
 
-### ✨ Fun Facts atau Quotes
-> "Mulai saja dulu, sempurnakan kemudian."
-
-* ⚡ Saya sangat suka belajar hal baru di bidang desain, analisis, dan suka mencoba kegiatan baru.
-* ☕ Pecinta matcha dan suka hujan alias pluviophile girl.
+### ✨ Daily Quote
+> "Mulai saja dulu, sempurnakan kemudian. Seperti benih yang butuh waktu untuk menjadi pohon yang kokoh." 🌳
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Coding%20is%20the%20art%20of%20turning%20logic%20into%20magic." alt="Quote" />
+</p>
