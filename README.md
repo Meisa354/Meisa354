@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Pluviophile%20Mode%20ON-1b5e20?style=flat-square&logo=icloud" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-81c784?style=flat-square" />
-  <img src="https://img.shields.io/badge/Drink-Matcha%20Lover-a5d6a7?style=flat-square&logo=leaf" />
+  <img src="https://img.shields.io/badge/Drink-Matcha%20Ice-a5d6a7?style=flat-square&logo=leaf" />
 </p>
 
 ---
@@ -42,9 +42,12 @@ Saya adalah mahasiswi **Sistem Informasi** yang sedang bertumbuh di dunia teknol
 
 ### 🔗 Let's Connect
 Let's grow together! 🌿
-* 💼 **LinkedIn:** [Meisa Astuti](https://www.linkedin.com/in/meisa-astuti-bb67972b1)
-* 📧 **Email:** [meisyaastuti2@gmail.com](mailto:meisyaastuti2@gmail.com)
-* 📸 **Instagram:** [@mesyaastti](https://www.instagram.com/mesyaastti)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/meisa-astuti-bb67972b1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-2e7d32?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meisa Astuti" /></a>
+<a href="https://www.instagram.com/mesyaastti" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-388e3c?style=for-the-badge&logo=instagram&logoColor=white" alt="mesyaastti" /></a>
+<a href="mailto:meisyaastuti2@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-4caf50?style=for-the-badge&logo=gmail&logoColor=white" alt="meisyaastuti2@gmail.com" /></a>
+</p>
 
 ---
 
