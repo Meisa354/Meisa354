@@ -1,7 +1,7 @@
 # <p align="center">🌿 Halo, Saya Meisa Astuti! 🌧️</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=2e7d32&height=200&section=header&text=Welcome%20to%20My%20Garden%20of%20Code&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=2e7d32&height=200&section=header&text=Welcome%20to%20My%20Garden&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -34,14 +34,13 @@ Saya adalah mahasiswi **Sistem Informasi** yang sedang bertumbuh di dunia teknol
 
 ### 📊 GitHub Garden Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meisa354&show_icons=true&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&icon_color=4caf50&border_color=a5d6a7" alt="Meisa GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meisa354&layout=compact&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&border_color=a5d6a7" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meisa354&show_icons=true&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&icon_color=4caf50&border_color=a5d6a7" alt="Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meisa354&layout=compact&theme=highcontrast&bg_color=f1f8e9&title_color=2e7d32&text_color=1b5e20&border_color=a5d6a7" alt="Langs" height="165" />
 </p>
 
 ---
 
 ### 🔗 Let's Connect
-Let's grow together! 🌿
 * 💼 **LinkedIn:** [Meisa Astuti](https://www.linkedin.com/in/meisa-astuti-bb67972b1)
 * 📧 **Email:** [meisyaastuti2@gmail.com](mailto:meisyaastuti2@gmail.com)
 * 📸 **Instagram:** [@mesyaastti](https://www.instagram.com/mesyaastti)
@@ -50,9 +49,3 @@ Let's grow together! 🌿
 
 ### ✨ Daily Quote
 > "Mulai saja dulu, sempurnakan kemudian. Seperti benih yang butuh waktu untuk menjadi pohon yang kokoh." 🌳
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Coding%20is%20the%20art%20of%20turning%20logic%20into%20magic." alt="Quote" />
-</p>
